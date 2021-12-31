@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: white;
+  font-size: 1.5rem;
+}
+body {
+  background-image: linear-gradient(to right, purple, blue);
+}
+.bodyContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+}
+#time {
+  margin-top: 20%;
+}
